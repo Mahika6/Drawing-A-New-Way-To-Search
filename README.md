@@ -168,3 +168,5 @@ python src/evaluate.py --model cnn --version 3 --classes 10
 ## Team Information
 
 This project is part of the UE23CS352A Machine Learning course mini-project requirement, implementing a 2-week hands-on machine learning solution.
+
+k
